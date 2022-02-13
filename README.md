@@ -23,3 +23,17 @@ Try Demo version here 👉 [SMIT's Nest🎓](https://smit-s-nest.vercel.app/)
 🟡 Moderated comments. <br> 
 🟡 Mobile responsive. <br>
 
+# Setting up the enviornment 🚀
+(1) Clone this repo <br>
+``https://github.com/REEKRAJROY/SMIT-s-Nest.git`` <br><br>
+(2) Change the working directory <br>
+``cd smitsnest`` <br><br>
+(3) Install dependencies <br>
+``npm install`` <br><br>
+(4) Run the web application <br>
+``npm run dev`` <br><br>
+The application will start at [http://localhost:3000/](http://localhost:3000/).
+
+# Frameworks and dependencies used 🧮
+``npx create-next-app -e with-tailwindcss ./ `` <br>
+``npm install graphql graphql-request html-react-parser moment react-multi-carousel sass``<br>
