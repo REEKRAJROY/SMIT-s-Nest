@@ -15,7 +15,11 @@ Try Demo version here 👉 [SMIT's Nest🎓](https://smit-s-nest.vercel.app/)
 • Our project, SMIT's Nest🎓 is built entirely on React.js and supports Pre-Rendering with Static-Site-Generation which has be implemented using Next.js. The modern UI has be designed with the help of Tailwind CSS. 
 
 • Most of our work will is established using GraphCMS and GraphQL respectively. GraphQL is a query language using which we can create schemas, models and retrieve data by firing graphql queries. GraphCMS on the other hand, is a Content Management System (CMS) using which the users can post content on the site. All the posts, comments are moderated based upon administrator permission.
-
-
-
+# Features 🎉
+🟡 Featured and recent posts. <br>
+🟡 Categories selection. <br>
+🟡 Full markdown articles. <br>
+🟡 Author information. <br> 
+🟡 Moderated comments. <br> 
+🟡 Mobile responsive. <br>
 
