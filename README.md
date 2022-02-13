@@ -37,3 +37,5 @@ The application will start at [http://localhost:3000/](http://localhost:3000/).
 # Frameworks and dependencies used 🧮
 ``npx create-next-app -e with-tailwindcss ./ `` <br>
 ``npm install graphql graphql-request html-react-parser moment react-multi-carousel sass``<br>
+
+# This project is still under development ⚙️
