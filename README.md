@@ -16,11 +16,11 @@ Try Demo version here 👉 [SMIT's Nest🎓](https://smit-s-nest.vercel.app/)
 
 • Most of our work will is established using GraphCMS and GraphQL respectively. GraphQL is a query language using which we can create schemas, models and retrieve data by firing graphql queries. GraphCMS on the other hand, is a Content Management System (CMS) using which the users can post content on the site. All the posts, comments are moderated based upon administrator permission.
 # Features 🎉
-🟡 Featured and recent posts. <br>
+🟡 Featured, related and recent posts. <br>
 🟡 Categories section. <br>
 🟡 Full markdown articles. <br>
 🟡 Author information. <br> 
-🟡 Moderated comments. <br> 
+🟡 Moderated user comments. <br> 
 🟡 Mobile responsive. <br>
 
 # Setting up the enviornment 🚀
