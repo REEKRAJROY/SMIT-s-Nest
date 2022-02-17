@@ -27,7 +27,7 @@ Try Demo version here 👉 [SMIT's Nest🎓](https://smit-s-nest.vercel.app/)
 (1) Clone this repository <br>
 ``https://github.com/REEKRAJROY/SMIT-s-Nest.git`` <br><br>
 (2) Change the working directory <br>
-``cd smitsnest`` <br><br>
+``cd project_graphql_blog-main`` <br><br>
 (3) Install dependencies <br>
 ``npm install`` <br><br>
 (4) Run the web application <br>
